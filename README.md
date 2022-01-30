@@ -8,3 +8,5 @@ third line from remote repository
 from local repository
 
 from remote repository
+
+from local repository2

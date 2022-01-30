@@ -12,3 +12,5 @@ from remote repository
 from local repository2
 
 from remot repository2
+
+from local repository3

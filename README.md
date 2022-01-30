@@ -6,3 +6,5 @@ second line from remote repository
 third line from remote repository
 
 from local repository
+
+from remote repository
